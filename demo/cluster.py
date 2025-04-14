@@ -4,11 +4,11 @@ from typing import List, Dict
 
 if __name__ == '__main__':
     # loading the inputs for clustering
-    data_path = "applications/demo_math.json"
+    data_path = "applications/1.json"
     with open(data_path, "r") as f:
         texts: List[str] = json.load(f)
-    K: int = 5
-    goal: str = "I want to cluster these math problems based on the type of skills required to solve them."
+    K: int = 3
+    goal: str = "I want to cluster these based on what document they belong to, or if they belong to neither"
 
     clustering_result = run_clustering(texts, K, goal)
     predicate2text2matching: Dict[str, Dict[str, int]] = clustering_result["predicate2text2matching"]
