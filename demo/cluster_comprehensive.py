@@ -5,7 +5,7 @@ if __name__ == '__main__':
 
     # loading the corpus
     with_reference = True
-    problem_type, dataset_name = "cluster", "agnews"
+    problem_type, dataset_name = "cluster", "1"
     dataset_path = DATA_DIR / problem_type / f"{dataset_name}.json"
     with open(dataset_path, "r") as f:
         dataset = json.load(f)
