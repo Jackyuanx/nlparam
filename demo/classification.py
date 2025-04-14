@@ -4,15 +4,15 @@ from nlparam import run_classification
 
 
 if __name__ == '__main__':
-    data_path = 'applications/demo_mem.json'
+    data_path = '../applications/.json'
     with open(data_path, "r") as f:
         task_dict = json.load(f)
 
     texts: List[str] = task_dict["texts"]
     labels: List[int] = task_dict["labels"]
     
-    K: int = 3
-    goal: str = "Here are some captions of the images. I am a cognitive scientist and I want to understand what visual features are important for people to remember an image."
+    K: int = 2
+    goal: str = "Here are some captions of the images. I am a climate scientist, and I want to see what makes the two documents different"
     
     # runnning the classification model
     clf_result = run_classification(texts, labels, K, goal)
