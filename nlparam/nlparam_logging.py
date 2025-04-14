@@ -1,5 +1,6 @@
 import logging
 import time
+import os
 
 # Define the logger
 logger = logging.getLogger(__name__)
@@ -11,6 +12,8 @@ format_str = (
 )
 date_format = "%Y-%m-%d %H:%M:%S"  # Define a date format
 
+log_dir = "logs"
+os.makedirs(log_dir, exist_ok=True)
 # Create a console handler and set its level to DEBUG
 console_handler = logging.StreamHandler()
 console_handler.setLevel(logging.DEBUG)
