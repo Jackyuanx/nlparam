@@ -1,0 +1,2 @@
+mentions specific themes or thrusts; specifically, the text outlines themes or key areas of focus within a development plan. For example, 'The NRPP 2030 outlines policy statements, strategies, and implementation measures according to specific themes and thrusts.': 0.3326269118287387
+states a specific year of approval; specifically, the text mentions the year when certain documents were approved, such as 'These documents were approved for implementation in 2017.': 0.37782063301051805
