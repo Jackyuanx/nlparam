@@ -1,0 +1,22 @@
+2025-04-14 00:41:03 - abstract_model.py - Line 238 - DEBUG - Optimizing continous predicates with idxes [0, 1, 2] now
+2025-04-14 00:41:03 - abstract_model.py - Line 239 - DEBUG - Optimizing w now
+2025-04-14 00:41:03 - abstract_model.py - Line 244 - DEBUG - Optimizing tilde_phi, step 0
+2025-04-14 00:41:03 - abstract_model.py - Line 248 - DEBUG - Optimizing w, step 0
+2025-04-14 00:41:03 - abstract_model.py - Line 244 - DEBUG - Optimizing tilde_phi, step 1
+2025-04-14 00:41:03 - abstract_model.py - Line 248 - DEBUG - Optimizing w, step 1
+2025-04-14 00:41:03 - abstract_model.py - Line 244 - DEBUG - Optimizing tilde_phi, step 2
+2025-04-14 00:41:03 - abstract_model.py - Line 248 - DEBUG - Optimizing w, step 2
+2025-04-14 00:41:03 - abstract_model.py - Line 244 - DEBUG - Optimizing tilde_phi, step 3
+2025-04-14 00:41:03 - abstract_model.py - Line 248 - DEBUG - Optimizing w, step 3
+2025-04-14 00:41:03 - abstract_model.py - Line 244 - DEBUG - Optimizing tilde_phi, step 4
+2025-04-14 00:41:03 - abstract_model.py - Line 248 - DEBUG - Optimizing w, step 4
+2025-04-14 00:41:03 - abstract_model.py - Line 244 - DEBUG - Optimizing tilde_phi, step 5
+2025-04-14 00:41:03 - abstract_model.py - Line 248 - DEBUG - Optimizing w, step 5
+2025-04-14 00:41:03 - abstract_model.py - Line 244 - DEBUG - Optimizing tilde_phi, step 6
+2025-04-14 00:41:03 - abstract_model.py - Line 248 - DEBUG - Optimizing w, step 6
+2025-04-14 00:41:03 - abstract_model.py - Line 244 - DEBUG - Optimizing tilde_phi, step 7
+2025-04-14 00:41:03 - abstract_model.py - Line 248 - DEBUG - Optimizing w, step 7
+2025-04-14 00:41:03 - abstract_model.py - Line 244 - DEBUG - Optimizing tilde_phi, step 8
+2025-04-14 00:41:03 - abstract_model.py - Line 248 - DEBUG - Optimizing w, step 8
+2025-04-14 00:41:03 - abstract_model.py - Line 244 - DEBUG - Optimizing tilde_phi, step 9
+2025-04-14 00:41:03 - abstract_model.py - Line 248 - DEBUG - Optimizing w, step 9
